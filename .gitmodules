@@ -1,0 +1,6 @@
+[submodule "boost"]
+	path = boost
+	url = https://github.com/liulilittle/boost-1.74-for-android-r20b-fpic.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/liulilittle/openssl-1.1.1i-for-android-r20b.git
