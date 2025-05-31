@@ -1,2 +1,2 @@
-# openppp2-android-ndk-r20b-3rd-environment-
-openpp2 tripartite library environment (static library, dynamic library)
+﻿# openppp2
+PPP PRIVATE NETWORK™ 2 VPN Next Generation Reliable and Secure Virtual Ethernet Access Solution!
